@@ -1,7 +1,7 @@
 # Hola, mi nombre es Rodrigo Rodríguez 👋
 ### Front-End Developer
 
-Soy estudiante de **Ingeniaría en Computación** en la **Universidad de la República**. Me encanta el dessarrollo web y actualmente me dedico a ello como Freelancer mientras termino mis estudios.
+Soy estudiante de **Ingeniaría en Computación** en la **Universidad de la República**. Me encanta el desarrollo web y actualmente me dedico a ello como Freelancer mientras termino mis estudios.
 
 ## Tecnologías
 - HTML5
