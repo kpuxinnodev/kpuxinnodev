@@ -1,7 +1,7 @@
 # Hola, mi nombre es Rodrigo Rodríguez 👋
 ### Front-End Developer
 
-Soy estudiante de **Ingeniaría en Computación** en la **Universidad de la República**. Me encanta el desarrollo web y actualmente me dedico a ello como Freelancer mientras termino mis estudios.
+Soy estudiante de **Ingeniaría en Computación**. Me encanta el desarrollo web y actualmente estoy poniendo en práctica mis conocimientos.
 
 ## Tecnologías
 - HTML5
@@ -10,9 +10,6 @@ Soy estudiante de **Ingeniaría en Computación** en la **Universidad de la Rep�
 - Astro
 - Tailwind
 - Nodejs
-
-## Contacto:
-kpuxinno.dev@gmail.com
 
 <!--
 **kpuxinnodev/kpuxinnodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
